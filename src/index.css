@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.dark {
+    --bg-color: #030712;
+    --text-color: #ffffff;
+  }
+  
+  .dark .navbar {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+  
