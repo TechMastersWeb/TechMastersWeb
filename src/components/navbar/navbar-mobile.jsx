@@ -3,7 +3,7 @@ import DarkModeButton from "../btns/btn-darkmode";
 function NavbarMobile() {
   return (
     <>
-      <nav className="md:hidden items-center  navbar flex justify-between px-10 py-2">
+      <nav className="md:hidden items-center  dark flex justify-between px-10 py-2">
         <box-icon color="" name="menu-alt-left"></box-icon>
 
         <h2>TechMastersWeb</h2>

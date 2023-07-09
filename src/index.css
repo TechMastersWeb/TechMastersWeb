@@ -8,7 +8,7 @@
     --text-color: #ffffff;
   }
   
-  .dark .navbar {
+  .dark .dark {
     background-color: var(--bg-color);
     color: var(--text-color);
   }
