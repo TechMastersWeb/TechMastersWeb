@@ -24,7 +24,7 @@ _Si estás buscando una solución completa para alojamiento web confiable y dise
 _Mención a:_
 
 * **Andrés Camacho** - *Desarrollador Full Stack* - [af01camacho](https://github.com/af01camacho)
-* **Fulanito Detal** - *Desarrollador Frontend* - [marTineX18](https://github.com/marTineX18)
+* **Gabriel Martínez** - *Desarrollador Frontend* - [marTineX18](https://github.com/marTineX18)
 
 ## Licencia 📄
 
