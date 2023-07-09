@@ -1,9 +1,7 @@
 function App() {
   return (
     <>
-      <h2>
-        <Home></Home>
-      </h2>
+      <h2>home</h2>
     </>
   );
 }
