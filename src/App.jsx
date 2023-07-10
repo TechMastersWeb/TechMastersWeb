@@ -2,6 +2,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 /* ====== Pages ====== */
 import Home from "./components/Pages/Home/home";
+import NavBar from "./components/navbar/navbar";
+import NotificationHome from "./components/notifications/home-notificacion";
 
 function App() {
   return (
@@ -11,8 +13,6 @@ function App() {
           <Route path="/" element={<Home />} />
         </Routes>
       </BrowserRouter>
-      <NavBar />
-      <NotificationHome />
     </>
   );
 }
