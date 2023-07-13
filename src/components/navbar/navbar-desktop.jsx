@@ -4,9 +4,9 @@ function NavbarDesktop() {
   const DarkMode = true;
   return (
     <>
-      <nav className="hidden md:flex items-center justify-between px-10 shadow-md">
-        <h2 className="font-bold text-xl">TechMastersWeb</h2>
-        <ul className="p-5 flex gap-5">
+      <nav className="hidden md:flex  items-center justify-around shadow-md">
+        <h2 className="font-bold text-xl">TechMasters</h2>
+        <ul className="py-4 flex gap-5">
           <Link className=" hover:bg-black hover:text-white py-2 px-4  font-semibold font-thing">
             Home
           </Link>

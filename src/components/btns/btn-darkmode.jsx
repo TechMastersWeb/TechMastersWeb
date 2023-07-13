@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import "boxicons";
 function DarkModeButton() {
   const [isDarkMode, setIsDarkMode] = useState(false);
 
@@ -22,11 +21,7 @@ function DarkModeButton() {
       }`}
       onClick={toggleDarkMode}
     >
-      {isDarkMode ? (
-        <box-icon color="white" name="sun"></box-icon>
-      ) : (
-        <box-icon name="moon"></box-icon>
-      )}
+      {isDarkMode ? <i class="bx bx-sun"></i> : <i class="bx bx-moon"></i>}
     </button>
   );
 }
